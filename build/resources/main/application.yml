@@ -1,0 +1,14 @@
+spring:
+  profiles:
+    active: default
+    include:
+      - test
+
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+
+
+logging:
+  level:
+    kr.megabrain : DEBUG

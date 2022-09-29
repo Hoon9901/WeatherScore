@@ -1,0 +1,25 @@
+
+E
+java:S37403"/Provide the parametrized type for this generic.(¾Ñó®
+b
+java:S1192&"GDefine a constant instead of duplicating this literal "UTF-8" 11 times.(ß¿şÿÿÿÿ
+
+java:S14887"dImmediately return this expression instead of assigning it to the temporary variable "jsonInString".(õÁ’üÿÿÿÿ
+a
+java:S22597"FA "NullPointerException" could be thrown; "getBody()" can return null.(õÁ’üÿÿÿÿ
+g
+java:S2095H"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(Ê¹‰©øÿÿÿÿ
+O
+java:S3516B"9Refactor this method to not always return the same value.(ÄÑ
+
+java:S1130$"tRemove the declaration of thrown exception 'java.net.URISyntaxException', as it cannot be thrown from method's body.(êËÊÆÿÿÿÿÿ
+M
+java:S11356"2Complete the task associated to this TODO comment.(¡¹ÀÂüÿÿÿÿ
+P	java:S125:"<This block of commented-out lines of code should be removed.(çÛâN
+Q	java:S125>"<This block of commented-out lines of code should be removed.(±×ôš
+\	java:S899F"BDo something with the "boolean" value returned by "createNewFile".(áèà‚ıÿÿÿÿ
+A
+java:S1168M"+Return an empty collection instead of null.(¥¹ï
+A
+java:S1168P"+Return an empty collection instead of null.(¥¹ï
+V	java:S125O"<This block of commented-out lines of code should be removed.(Ó–µûÿÿÿÿÿ

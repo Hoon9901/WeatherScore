@@ -1,4 +1,4 @@
-package com.example.codebase.controller;
+package com.example.codebase;
 
 import io.swagger.annotations.ApiOperation;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -14,5 +14,4 @@ public class TestController {
     public String test() {
         return "pong!";
     }
-
 }

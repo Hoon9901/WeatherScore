@@ -1,0 +1,11 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(şı“ìûÿÿÿÿ
+J
+java:S3740/"/Provide the parametrized type for this generic.(¶µÇÿÿÿÿÿ
+
+java:S1319"sThe return type of this method should be an interface such as "Map" rather than the implementation "LinkedHashMap".(şı“ìûÿÿÿÿ
+r	java:S116"]Rename this field "DATA_GO_KR_API_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¡Í·
+x	java:S116"^Rename this field "DATA_GO_KR_API_KEY2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ”Ììÿÿÿÿÿ
+=
+java:S1659 ""Declare "time" on a separate line.(àÿ¾ùÿÿÿÿ
